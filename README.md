@@ -35,32 +35,11 @@ The objective of this assignment is to implement a simple text-based Tic-Tac-Toe
      - Checking for a winner.
      - Handling player moves.
 
-**Additional Challenges (Optional):**
-
-1. **Error Handling:**
+7. **Error Handling:**
    - Implement error handling to handle invalid input from players.
    - Ensure the program does not crash if players provide incorrect input.
 
-2. **Player Names:**
-   - Allow players to enter their names at the beginning of the game.
-   - Display player names instead of 'X' and 'O' on the board.
+8. **Color:**
+   - Display the "X" marks in red and the "O" marks in blue.
 
-3. **Game Replay:**
-   - Give players the option to replay the game after it concludes.
-   - Implement a mechanism to reset the game board.
 
-**Submission Guidelines:**
-
-1. Submit a Python script (.py file) containing the complete Tic-Tac-Toe game code.
-2. Include comments to explain the purpose of each function and significant sections of your code.
-3. If you attempt the additional challenges, document those in the comments as well.
-
-**Grading Criteria:**
-- Correct implementation of the basic Tic-Tac-Toe game.
-- Proper use of functions for modularity.
-- Handling of player input and game flow.
-- Correct determination of the winner or a draw.
-- Optional challenges (if attempted) and their successful implementation.
-
-**Note:**
-Encourage students to seek help if they encounter difficulties and to explore additional features beyond the basic requirements to enhance their programming skills.
