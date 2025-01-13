@@ -12,7 +12,7 @@ The objective of this assignment is to implement a simple text-based Tic-Tac-Toe
    - Display the board at the beginning of each turn to show the current state of the game.
 
 2. **Players:**
-   - The game should support two players, 'X' and 'O'.
+   - The game should support two players, 'X' and 'O', or a set of two emojis.
    - Players take turns to make a move.
 
 3. **Moves:**
@@ -39,7 +39,6 @@ The objective of this assignment is to implement a simple text-based Tic-Tac-Toe
    - Implement error handling to handle invalid input from players.
    - Ensure the program does not crash if players provide incorrect input.
 
-8. **Color:**
-   - Display the "X" marks in red and the "O" marks in blue.
+
 
 
